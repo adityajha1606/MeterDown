@@ -1,8 +1,8 @@
 # 🚕 METERDOWN - Premium Ride Aggregator for Chennai
 
-Contributor: Aditya Jha 
-Role: Backend & Integration Support
-A sleek, visually striking, and intuitive Java Swing desktop application that serves as a premium ride-hailing aggregator for Chennai. Built with modern UI principles, cinematic themes, and local data storage powered by SQLite.
+-Contributor: Aditya Jha 
+-Role: Backend & Integration Support
+-A sleek, visually striking, and intuitive Java Swing desktop application that serves as a premium ride-hailing aggregator for Chennai. Built with modern UI principles, cinematic themes, and local data storage powered by SQLite.
 
 ## ✨ Features
 
@@ -286,4 +286,5 @@ Through this project, I gained experience with the MVC architecture, REST API in
 ---
 
 **METERDOWN** - Premium Ride Aggregator for Chennai 🚕✨
+
 
