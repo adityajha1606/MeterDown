@@ -1,5 +1,7 @@
 # 🚕 METERDOWN - Premium Ride Aggregator for Chennai
 
+Contributor: Aditya Jha 
+Role: Backend & Integration Support
 A sleek, visually striking, and intuitive Java Swing desktop application that serves as a premium ride-hailing aggregator for Chennai. Built with modern UI principles, cinematic themes, and local data storage powered by SQLite.
 
 ## ✨ Features
@@ -274,6 +276,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support, email support@meterdown.com or create an issue in the GitHub repository.
 
+## My Contribution
+
+Contributor to **MeterDown – Premium Ride Aggregator for Chennai**, a Java Swing application designed to aggregate ride services such as Uber, Ola, and Rapido.
+
+My contributions included assisting in the implementation of booking workflows, improving SQLite database interactions, and supporting API integration for location and ride services. I also helped refine UI components built with Java Swing and participated in debugging and improving overall system stability.
+
+Through this project, I gained experience with the MVC architecture, REST API integration, Java desktop UI development, and collaborative software development using Git.
 ---
 
 **METERDOWN** - Premium Ride Aggregator for Chennai 🚕✨
+
